@@ -5,18 +5,18 @@ Welcome to my GitHub profile! Here's a little about me:
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[your current project or area of focus]**
-- 🌱 I’m currently learning **[technologies, frameworks, or concepts you're exploring]**
-- 💬 Ask me about **[topics you’re knowledgeable about]**
-- 📫 How to reach me: **[your preferred contact method, e.g., email or LinkedIn]**
-- ⚡ Fun fact: **[something interesting or quirky about you]**
+- 🔭 I’m currently working on **DLTs, Blockchains, Crypto, Math, and AI**
+- 🌱 I’m currently learning **Everything this is interesting!**
+- 💬 Ask me about **How real businesses looks at technology!**
+- 📫 How to reach me: **I am old, so use LinkedIn**
+- ⚡ Fun fact: **This is my 6th Boom-Bust cycle**
 
 ---
 
 ## 🛠️ Technologies & Tools
-- **Programming Languages:** [e.g., Python, JavaScript, TypeScript, etc.]
-- **Frameworks & Libraries:** [e.g., React, Django, etc.]
-- **Tools & Platforms:** [e.g., Docker, Kubernetes, GitHub Actions, etc.]
+- **Programming Languages:** About 40+ and counting...
+- **Frameworks & Libraries:** Framworks are only needed when you are lazy... and have too much trust in that guy that told me on Telegram that "it was the best thing ever"...
+- **Tools & Platforms:** I started on CP/M, VMS, and UNIX... and I'm still not done!
 
 ---
 
@@ -28,10 +28,10 @@ Welcome to my GitHub profile! Here's a little about me:
 ---
 
 ## 🌐 Connect With Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mikaelbjorn)
-- Twitter: [Your Twitter Handle](https://twitter.com/mikaelbjorn)
-- Portfolio: [Your Website](https://www.mbcg.se)
+- LinkedIn: https://www.linkedin.com/in/mikaelbjorn
+- Twitter: https://twitter.com/mikaelbjorn
+- Portfolio: https://www.mbcg.se
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and contribute or connect. Let's create something amazing together! 😄
+Everything is only and excuse, so why not just send me a text?
